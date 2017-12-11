@@ -33,19 +33,19 @@
 
    - [ ] Figure 1:
 
-         ![5.1](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/Week%2001/quiz/5.1.png)
+   ![5.1](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/Week%2001/quiz/5.1.png)
 
    - [ ] Figure 2:
 
-         ![5.2](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/Week%2001/quiz/5.2.png)
+   ![5.2](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/Week%2001/quiz/5.2.png)
 
    - [x] Figure 3:
 
-         ![5.3](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/Week%2001/quiz/5.3.png)
+   ![5.3](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/Week%2001/quiz/5.3.png)
 
    - [ ] Figure 4:
 
-         ![5.4](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/Week%2001/quiz/5.4.png)
+   ![5.4](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/Week%2001/quiz/5.4.png)
 
 6. Images for cat recognition is an example of “structured” data, because it is represented as a structured array in a computer. True/False?
 
