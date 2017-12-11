@@ -1,15 +1,22 @@
 # deeplearning.ai
+
 ## Deep Learning Specialization
 **Master Deep Learning, and Break into AI**
 
+Instructor: [Andrew Ng](http://www.andrewng.org/)
+
+## Introduction
+
+This repo contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning), [shahariarrabby/deeplearning.ai.git](https://github.com/shahariarrabby/deeplearning.ai), [Kulbear/deep-learning-coursera.git](https://github.com/Kulbear/deep-learning-coursera), and my own work :D.
+
+This repo is aim to help me and another students who are interested in deep learning study easily. For one thing, it is a good collection of materials. For another, it is a good place to discuss together. I add my solutions **for reference only**. I hope all of you can start quickly and improve your abilities and skills.
+
 ## There is all the `ipynb` notebook and slides that associated with <a href="http://deeplearning.ai">deeplearning.ai</a>
-* **There is no solution in the notebook**
-* **All datafile added**
-* **You Can download them and practice offline**
+* **All data files added**
 * **All slide added**
 
 ## Pre Trained Models
-**Github only allows to share file less than 50mb. There is some pre-trained model like resnet etc. Suggest you to download them from My [Google Drive](https://drive.google.com/open?id=1_HDHpsm_bIOkdo7aVkOcLsYxejilRujv) or download them from online (as they are so popular you can easily get them)**
+**GitHub only allows to share file less than 50mb. There is some pre-trained model like resnet etc. Suggest you to download them from shahariarrabby's [Google Drive](https://drive.google.com/open?id=1_HDHpsm_bIOkdo7aVkOcLsYxejilRujv) or download them from online (as they are so popular you can easily get them)**
 
 ## Video Link
 * **[Deeplearning.ai youtube channel](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists)**
@@ -24,6 +31,4 @@
 
 ## Conclusion
 #### Everyone welcome to create pull request if new resource update or if i miss anything :)
-#### As coursera suggest to not to share solution online. So, request you not to share solution for this notebook.
-
 ### Thank You
