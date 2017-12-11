@@ -17,7 +17,7 @@
 
 3. Recall this diagram of iterating over different ML ideas. Which of the statements below are true? (Check all that apply.)
 
-   ![3](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/Week%2001/quiz/3.png)
+   ![3](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/week1/Introduction%20to%20Deep%20Learning/quiz/3.png)
 
    - [x] Being able to try out ideas quickly allows deep learning engineers to iterate more quickly.
    - [x] Faster computation can help speed up how long a team takes to iterate to a good idea.
@@ -33,19 +33,19 @@
 
    - [ ] Figure 1:
 
-   ![5.1](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/Week%2001/quiz/5.1.png)
+   ![5.1](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/week1/Introduction%20to%20Deep%20Learning/quiz/5.1.png)
 
    - [ ] Figure 2:
 
-   ![5.2](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/Week%2001/quiz/5.2.png)
+   ![5.2](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/week1/Introduction%20to%20Deep%20Learning/quiz/5.2.png)
 
    - [x] Figure 3:
 
-   ![5.3](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/Week%2001/quiz/5.3.png)
+   ![5.3](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/week1/Introduction%20to%20Deep%20Learning/quiz/5.3.png)
 
    - [ ] Figure 4:
 
-   ![5.4](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/Week%2001/quiz/5.4.png)
+   ![5.4](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/week1/Introduction%20to%20Deep%20Learning/quiz/5.4.png)
 
 6. Images for cat recognition is an example of “structured” data, because it is represented as a structured array in a computer. True/False?
 
@@ -66,7 +66,7 @@
 
 9. In this diagram which we hand-drew in lecture, what do the horizontal axis (x-axis) and vertical axis (y-axis) represent?
 
-   ![9](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/Week%2001/quiz/9.png)
+   ![9](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/week1/Introduction%20to%20Deep%20Learning/quiz/9.png)
 
    - [x] - x-axis is the amount of data
          - y-axis (vertical axis) is the performance of the algorithm.
