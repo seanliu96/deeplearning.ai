@@ -1,8 +1,8 @@
-### What is neural network?
+## What is neural network?
 
 It is a powerful learning algorithm inspired by how the brain works.
 
-#### Example 1 - single neural network
+### Example 1 - single neural network
 
 Given data about the size of houses on the real estate market and you want to fit a function that will
 predict their price. It is a linear regression problem because the price as a function of size is a continuous
@@ -21,7 +21,7 @@ The "neuron" implements the function ReLU (blue line)
 
 ![single neural network](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/week1/Introduction%20to%20Deep%20Learning/images/single%20neural%20network.PNG)
 
-#### Example 2 – Multiple neural network
+### Example 2 – Multiple neural network
 
 The price of a house can be affected by other features such as size, number of bedrooms, zip code and
 wealth. The role of the neural network is to predicted the price and it will automatically generate the
@@ -31,7 +31,7 @@ hidden units. We only need to give the inputs x and the output y.
 
 
 
-### Supervised learning for Neural Network
+## Supervised learning for Neural Network
 
 In supervised learning, we are given a data set and already know what our correct output should look like,
 having the idea that there is a relationship between the input and the output.
@@ -46,18 +46,18 @@ for image application and Recurrent Neural Network (RNN) used for one-dimensiona
 such as translating English to Chinses or a temporal component such as text transcript. As for the
 autonomous driving, it is a hybrid neural network architecture.
 
-### Neural Network examples
+## Neural Network examples
 
 ![neural network examples](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/week1/Introduction%20to%20Deep%20Learning/images/nn%20examples.PNG)
 
-### Structured vs unstructured data
+## Structured vs unstructured data
 
 Structured data refers to things that has a defined meaning such as price, age whereas unstructured
 data refers to thing like pixel, raw audio, text.
 
 ![structured vs unstructured data](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/week1/Introduction%20to%20Deep%20Learning/images/structured%20data%20vs%20unstructured%20data.PNG)
 
-### Why is deep learning taking off?
+## Why is deep learning taking off?
 
 Deep learning is taking off due to a large amount of **data** available through the digitization of the society, faster **computation** and innovation in the development of neural network **algorithm**.
 
