@@ -4,7 +4,7 @@
 
 ## Neural Network Representation
 
-![nn representation](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/week3/Shallow%20Neural%20Network/images/nn.png)
+![nn representation](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%201%20Neural%20Networks%20and%20Deep%20Learning/week3/Shallow%20Neural%20Network/images/nn%20representation.png)
 
 ## Computing a Neural Network's Output
 
