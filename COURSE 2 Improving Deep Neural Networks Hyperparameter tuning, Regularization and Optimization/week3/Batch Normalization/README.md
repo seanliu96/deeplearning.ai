@@ -20,17 +20,17 @@ $$
 
 ## Fitting Batch Norm Into a Neural Network
 
-![adding batch norm to a network](/Users/Sean/Google Drive/CS/DeepLearning/deeplearning.ai/COURSE 2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/week3/Batch Normalization/images/adding batch norm to a network.png)
+![adding batch norm to a network](https://github.com/seanliu96/deeplearning.ai/raw/master/COURSE%202%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week3/Batch%20Normalization/images/adding%20batch%20norm%20to%20a%20network.png)
 
 ### Working With Mini-Batches
 
 Because Batch Norm zeroes out the mean of these Z values in the layer, there's no point having this parameter b.
 
-![working with mini-batches](/Users/Sean/Google Drive/CS/DeepLearning/deeplearning.ai/COURSE 2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/week3/Batch Normalization/images/working with mini-batches.png)
+![working with mini-batches](https://github.com/seanliu96/deeplearning.ai/raw/master/COURSE%202%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week3/Batch%20Normalization/images/working%20with%20mini-batches.png)
 
 ### Implementing Gradient Descent
 
-![implementing gradient descent](/Users/Sean/Google Drive/CS/DeepLearning/deeplearning.ai/COURSE 2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/week3/Batch Normalization/images/implementing gradient descent.png)
+![implementing gradient descent](https://github.com/seanliu96/deeplearning.ai/raw/master/COURSE%202%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week3/Batch%20Normalization/images/implementing%20gradient%20descent.png)
 
 ### Why Batch Norm Work
 
