@@ -1,6 +1,6 @@
 ## Why Human-level Performance
 
-![performance](images/performance.png)
+![performance](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%203%20Structuring%20Machine%20Learning%20Projects/week1/Comparing%20To%20Human-level%20Performance/images/performance.png)
 
 Machine learning progresses slowly when it surpasses human-level performance. 
 

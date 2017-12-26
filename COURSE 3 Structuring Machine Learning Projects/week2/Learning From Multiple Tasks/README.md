@@ -15,7 +15,7 @@ The guideline is
 - create a new set of random initialized weights for the last layer only
 - new data set (x, y)
 
-![transfer learning](images/transfer learning.png)
+![transfer learning](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%203%20Structuring%20Machine%20Learning%20Projects/week2/Learning%20From%20Multiple%20Tasks/images/transfer learning.png)
 
 ## Multi-task Learning
 
@@ -29,7 +29,7 @@ The guideline is
 
 ### Neural Network Architecture
 
-![multi-task learning](images/multi-task learning.png)
+![multi-task learning](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%203%20Structuring%20Machine%20Learning%20Projects/week2/Learning%20From%20Multiple%20Tasks/images/multi-task learning.png)
 
 ### Loss Function
 

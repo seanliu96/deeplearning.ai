@@ -9,7 +9,7 @@ There are two sources of data used to develop the mobile app.
 
 The guideline used is that you have to choose a development set and test set to reflect data you expect to get in the future and consider important to do well.
 
-![different distributions](images/different distributions.png)
+![different distributions](https://raw.githubusercontent.com/seanliu96/deeplearning.ai/master/COURSE%203%20Structuring%20Machine%20Learning%20Projects/week2/Mismatched%20Training%20And%20Dev%20Test%20Set/images/different%20distributions.png)
 
 The advantage of this way of splitting up is that the target is well defined.
 
